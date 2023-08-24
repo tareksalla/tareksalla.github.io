@@ -1,29 +1,29 @@
-# Bem-vindo(a) ao meu Portfólio Criativo! ??
+# Bem-vindo(a) ao meu PortfÃ³lio Criativo! ğŸ¨
 
-Olá, sou [Seu Nome], um apaixonado designer gráfico e estrategista criativo. Este é o meu espaço dedicado a exibir uma amostra dos meus trabalhos, que abrangem desde a criação de logotipos cativantes até a concepção de materiais visuais impactantes, tanto para o ambiente online quanto offline. 
+OlÃ¡, sou Tarek Salla, um apaixonado designer grÃ¡fico e estrategista criativo.
+Este Ã© o meu espaÃ§o dedicado a exibir uma amostra dos meus trabalhos, que abrangem desde a criaÃ§Ã£o de logotipos cativantes atÃ© a concepÃ§Ã£o de materiais visuais impactantes, tanto para o ambiente online quanto offline. 
 
-## ?? O Que Faço
+## ğŸ’¼ O Que FaÃ§o
 
-- **Criação de Logotipos Memoráveis**: Acredito que um logotipo é a identidade visual de uma marca. Minha abordagem combina criatividade e estratégia para criar logotipos únicos que contam a história da sua marca.
+- **CriaÃ§Ã£o de Logotipos**: Acredito que um logotipo Ã© a identidade visual de uma marca. Minha abordagem combina criatividade e estratÃ©gia para criar logotipos Ãºnicos que contam a histÃ³ria da sua marca.
 
-- **Materiais Online e Offline**: Do digital ao impresso, estou aqui para dar vida às suas ideias. Desenvolvo designs atrativos para websites, redes sociais, banners, cartões de visita, folhetos e muito mais.
+- **Materiais Online e Offline**: Do digital ao impresso, estou aqui para dar vida Ã s suas ideias. Desenvolvo designs atrativos para websites, redes sociais, banners, cartÃµes de visita, folhetos e muito mais.
 
-- **Estratégia de Tráfego Pago**: Além de design, ofereço serviços de estratégia de tráfego pago. Aumentar a visibilidade da sua marca é fundamental, e posso ajudar a direcionar o público certo por meio de campanhas estratégicas.
+- **EstratÃ©gia de TrÃ¡fego Pago**: AlÃ©m de design, ofereÃ§o serviÃ§os de estratÃ©gia de trÃ¡fego pago. Aumentar a visibilidade da sua marca Ã© fundamental, e posso ajudar a direcionar o pÃºblico certo por meio de campanhas estratÃ©gicas.
 
-## ?? Meu Compromisso
+## ğŸ¨ Meu Compromisso
 
-Cada projeto é uma oportunidade para explorar novas ideias e desafios. Minha paixão pelo design se reflete em cada detalhe dos meus trabalhos. Estou empenhado(a) em proporcionar resultados excepcionais que não apenas atendam, mas excedam as expectativas dos meus clientes.
+Cada projeto Ã© uma oportunidade para explorar novas ideias e desafios. Minha paixÃ£o pelo design se reflete em cada detalhe dos meus trabalhos. Estou empenhado(a) em proporcionar resultados excepcionais que nÃ£o apenas atendam, mas excedam as expectativas dos meus clientes.
 
-## ?? Portfólio
+## ğŸŒ PortfÃ³lio
 
-Dê uma olhada em meu portfólio para ver exemplos dos meus projetos anteriores. Cada projeto é uma história única e estou ansioso(a) para compartilhar meu processo criativo com você.
+DÃª uma olhada em meu portfÃ³lio para ver exemplos dos meus projetos anteriores. Cada projeto Ã© uma histÃ³ria Ãºnica e estou ansioso(a) para compartilhar meu processo criativo com vocÃª.
 
 
+## ğŸ“ Entre em Contato
 
-## ?? Entre em Contato
+Estou sempre aberto(a) a novas oportunidades e colaboraÃ§Ãµes. Se vocÃª estÃ¡ interessado(a) em trabalhar comigo ou apenas deseja conversar sobre design, fique Ã  vontade para entrar em contato.
 
-Estou sempre aberto(a) a novas oportunidades e colaborações. Se você está interessado(a) em trabalhar comigo ou apenas deseja conversar sobre design, fique à vontade para entrar em contato.
-
-- ?? Email: tarek-salla@hotmail.com
+- Email: tarek-salla@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/tareksalla/
 - Website: tareksalla.github.io
