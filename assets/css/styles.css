@@ -321,7 +321,7 @@ img {
 }
 
 .skills__html {
-  width: 95%;
+  width: 100%;
 }
 
 .skills__css {
@@ -338,9 +338,15 @@ img {
   width: 65%;
 }
 
-.skills__ux {
-  width: 25%;
+.skills__trafego {
+  width: 40%;
 }
+
+
+.skills__front {
+	  width: 35%;
+}
+
 
 .skills__img {
   border-radius: .5rem;
