@@ -325,7 +325,7 @@ img {
 }
 
 .skills__css {
-  width: 85%;
+  width: 100%;
 }
 
 
@@ -335,16 +335,16 @@ img {
 
 
 .skills__js {
-  width: 65%;
+  width: 100%;
 }
 
 .skills__trafego {
-  width: 40%;
+  width: 50%;
 }
 
 
 .skills__front {
-	  width: 35%;
+	  width: 40%;
 }
 
 
